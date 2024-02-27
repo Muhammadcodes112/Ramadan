@@ -132,25 +132,25 @@ section{
 }
 
 .swiper-slide:nth-child(1n){
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url(https://images.unsplash.com/photo-1708733925285-3c709f5eeae8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D) no-repeat 30% 30% / cover;
+    background: black;
 }
 .swiper-slide:nth-child(2n){
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url(https://images.unsplash.com/photo-1682687220363-35e4621ed990?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxMXx8fGVufDB8fHx8fA%3D%3D) no-repeat 30% 30% / cover;
+    background: black;
 }
 .swiper-slide:nth-child(3n){
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url(https://images.unsplash.com/photo-1708769467674-cd1303507f6b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNHx8fGVufDB8fHx8fA%3D%3D) no-repeat 30% 30% / cover;
+    background: black;
 }
 .swiper-slide:nth-child(4n){
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url(https://plus.unsplash.com/premium_photo-1706517229039-3e0a3eeb27ef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxN3x8fGVufDB8fHx8fA%3D%3D) no-repeat 30% 30% / cover;
+    background: black;
 }
 .swiper-slide:nth-child(5n){
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url(https://images.unsplash.com/photo-1708601420996-44e883ea1be2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMHx8fGVufDB8fHx8fA%3D%3D) no-repeat 30% 30% / cover;
+    background: black;
 }
 .swiper-slide:nth-child(6n){
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url(https://images.unsplash.com/photo-1708777339308-77642d14ce45?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D) no-repeat 30% 30% / cover;
+    background: black;
 }
 .swiper-slide:nth-child(7n){
-    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url(https://images.unsplash.com/photo-1708777339308-77642d14ce45?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D) no-repeat 30% 30% / cover;
+    background: black;
 }
 
 .circles{
